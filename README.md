@@ -12,6 +12,8 @@ On the 92-record test split, XGBoost reached **0.9246 ROC-AUC** and detected **5
 
 [View or download the ROC curve (PNG)](xgboost-roc.png)
 
+[View or download the project report (PDF)](project-report.pdf)
+
 ## Run the XGBoost model
 
 1. Download heart.csv from the [Heart Failure Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) and put it next to XGBoost_model.py.
